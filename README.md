@@ -3,7 +3,7 @@
 ## Website
 
 In your browser, open the link:
-<https://darkstyleee-blog.web.app>
+<https://vue-work-js.web.app>
 
 ## Project setup
 ```
