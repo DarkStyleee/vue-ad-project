@@ -5,6 +5,11 @@
 In your browser, open the link:
 <https://vue-work-js.web.app>
 
+To view and edit records, log in or register.
+For the test, you can use:
+Login: test1@mail.ru
+Password: 123123
+
 ## Project setup
 ```
 npm install
